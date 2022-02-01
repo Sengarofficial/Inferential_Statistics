@@ -1,1 +1,3 @@
-# Inferential_Statistics
+# Inferential_Statistics : 
+
+Hypothesis Testing.
