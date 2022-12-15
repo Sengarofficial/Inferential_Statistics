@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Powered%20by-Python-yellow" /></a> <a href="https://numpy.org/" target="blank"><img src="https://img.shields.io/badge/-Numpy-red" /></a> <a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/-Pandas-lightgrey" /></a> <a href="https://scikit-learn.org/stable/" target="blank"><img src="https://img.shields.io/badge/-Scikit--Learn-blue" /></a> <a href="https://matplotlib.org/" target="blank"><img src="https://img.shields.io/badge/-Matplotlib-green" /></a> <a href="https://seaborn.pydata.org/" target="blank"><img src="https://img.shields.io/badge/-Seaborn-brightgreen" /></a> </p>
+
 ## Inferential Statistics:
 
 Inferential statistics are often used to compare the differences between the treatment groups. Inferential statistics use measurements from the sample of subjects in the experiment to compare the treatment groups and make generalizations about the larger population of subjects.
